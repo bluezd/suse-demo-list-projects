@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "name": "rancher",
+        "repository": "https://github.com/rancher",
+        "twitter": "https://twitter.com/Rancher_Labs",
+        "website": "https://rancher.com",
+        "description": "Deploy and manage Kubernetes anywhere."
+    },
+    {
+        "id": "1",
+        "name": "k3s",
+        "repository": "https://github.com/k3s-io/k3s",
+        "twitter": "",
+        "website": "https://k3s.io/",
+        "description": "Lightweight Kubernetes built for resource-constrained environments like IoT and Edge."
+    },
+    {
+        "id": "2",
+        "name": "harvester",
+        "repository": "https://github.com/rancher/harvester",
+        "twitter": "",
+        "website": "https://harvesterhci.io/",
+        "description": "Open source hyperconverged infrastructure (HCI) software."
+    },
+    {
+        "id": "3",
+        "name": "rke",
+        "repository": "https://github.com/rancher/rke",
+        "twitter": "",
+        "website": "https://rancher.com/products/rke",
+        "description": "Kubernetes simplified. Runs in Docker containers."
+    }
+]
